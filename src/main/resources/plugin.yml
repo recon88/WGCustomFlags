@@ -5,7 +5,6 @@ version: "${project.version}"
 
 authors: [ mewin ]
 depend: [ WorldGuard ]
-softdepend: [ WorldEdit ]
 website: http://dev.bukkit.org/server-mods/worldguard-custom-flags/
 
 commands:
